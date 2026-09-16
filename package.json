@@ -1,0 +1,17 @@
+{
+  "name": "devlink-api",
+  "version": "1.0.0",
+  "description": "Professional networking API built with Express, MongoDB, and Mongoose",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.9.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
